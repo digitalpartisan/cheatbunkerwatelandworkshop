@@ -1,0 +1,14 @@
+Brings content from the Wasteland Workshop DLC – particularly the ability to spawn trapable NPCs - into The Cheat Bunker.
+
+Quest Auto-completion options:
+None
+Importers:
+None
+Exterior space connection(s):
+None
+Items modified for playability and/or adding a legendary effect attach point:
+None
+
+-
+
+The Cheat Bunker: Wasteland Workshop has been cleaned with FO4Edit.
